@@ -2,7 +2,6 @@ RPC_URL = "https://api.mainnet-beta.solana.com"
 WS_URL = "wss://api.mainnet-beta.solana.com"
 
 # Paste your base58 private key
-PRIVATE_KEY = "44GSBit8uXqR2c2WBoHgctpYtrJD2Z1cUUF99FpV2wa6zKvuDhLLv6GECJ3FkgGwFBNEFxyxMMZNvDStKYvUZwKa"
 
 # Trading settings
 BUY_AMOUNT_SOL = 0.002
